@@ -1,6 +1,6 @@
 <!-- =====================  ANIMATED HEADER BANNER  ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4200&pause=1000&color=00C0FF&center=true&vCenter=true&width=900&lines=Welcome+to+Rufai's+Developer+World+🌍;Backend+Engineer+%7C+Cloud+%26+DevOps+Enthusiast;Building+Modern+Apps+%F0%9F%9A%80;Automating+Deployments+%F0%9F%9A%80;Learning+Every+Single+Day+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4200&pause=1000&color=00C0FF&center=true&vCenter=true&width=900&lines=Welcome+to+Rufus+Developer+World+🌍;Backend+Engineer+%7C+Cloud+%26+DevOps+Enthusiast;Building+Modern+Apps+%F0%9F%9A%80;Automating+Deployments+%F0%9F%9A%80;Learning+Every+Single+Day+🔥" />
 </p>
 
 ---
