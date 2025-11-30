@@ -80,12 +80,11 @@ Hi! I'm **Rufai**, a passionate **Backend Engineer & DevOps enthusiast** who enj
 
 ---
 
-# 🐍 **Contribution Snake**
+# 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AchrafSoltani/AchrafSoltani/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/rufai36/rufai36/output/github-contribution-grid-snake.svg" />
 </p>
 
----
 
 # 🤝 **Let’s Connect**
 
