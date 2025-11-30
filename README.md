@@ -4,12 +4,14 @@
 
 🌍 Based in Nigeria | Open to remote work (Worldwide)
 
-### 🔧 Tools I Use Daily
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,aws,gcp,azure" />
-  </a>
+### 🛠️ Tools I Use Daily
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,typescript,python,fastapi,vitest,firebase,mongodb,redis,postgresql,sqlite,astro,nginx,aws" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=graphql,heroku,git,kubernetes,docker,githubactions,linux,vite,bash,discord,azure,regex,prisma,remix,gitlab" />
 </p>
+
 ### 🔭 What I'm Working On
 - Building Omni-Channel customer support software
 - Deploying scalable web apps on AWS EC2
