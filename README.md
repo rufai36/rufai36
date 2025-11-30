@@ -1,118 +1,143 @@
-<!-- =====================  ANIMATED HEADER BANNER  ===================== -->
+<!-- ====================== CUSTOM NEON HEADER BANNER ====================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4200&pause=1000&color=00C0FF&center=true&vCenter=true&width=900&lines=Welcome+to+Rufai's+Developer+World+🌍;Backend+Engineer+%7C+Cloud+%26+DevOps+Enthusiast;Building+Modern+Apps+%F0%9F%9A%80;Automating+Deployments+%F0%9F%9A%80;Learning+Every+Single+Day+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=33&duration=4200&pause=700&color=00E5FF&center=true&vCenter=true&width=1000&lines=Rufai+Ahmad+Atiku+%F0%9F%94%A5;Backend+Engineer+%7C+Cloud+%26+DevOps+Enthusiast;Building+Reliable+Systems+%F0%9F%9A%80;Transforming+Ideas+Into+Production+%F0%9F%92%BB;Welcome+To+My+Developer+Space+🌍" />
+</p>
+
+<br>
+
+<!-- ====================== PERSONAL BRANDING BADGES ====================== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend_Engineer-%2300E5FF.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-%23007ACC.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-%2300C2FF.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Source-%23FF0077.svg?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
 
-# 👨‍💻 **Who I Am**
-Hi! I'm **Rufai**, a passionate **Backend Engineer & DevOps enthusiast** who enjoys building high-performance systems, deploying cloud-native applications, and solving real-world problems through technology.
+# 🎯 **My Mission**
+To build **scalable backend systems**, deploy them using **modern DevOps practices**, and contribute to technology that **empowers people, businesses, and communities**.
 
-💡 I focus on:
-- Building **scalable backend systems**  
-- Cloud deployments using **Docker**, **Kubernetes**, **AWS**  
-- API design & microservices  
-- DevOps automation (CI/CD, GitHub Actions)  
-- Databases & system architecture  
+I believe in:
+- Reliability over complexity  
+- Clean architecture  
+- Automation  
+- Consistency  
+- Simplicity in design  
 
 ---
 
-# ⚙️ **My Technology Arsenal**
+# 🧭 **2025 Developer Roadmap**
+This year, I'm focusing on:
 
-## 🚀 **Languages & Frameworks**
+✔️ Advanced Kubernetes (Operators, Helm, Service Mesh)  
+✔️ AWS Cloud Architecture  
+✔️ High-performance backend patterns  
+✔️ Distributed systems fundamentals  
+✔️ Building real-world SaaS platforms  
+✔️ AI-powered automation tools  
+
+---
+
+# 🧰 **TECH STACK (Skill Matrix)**
+
+### 🔹 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,javascript,typescript,python,fastapi,vitest&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,bash&theme=dark" />
 </p>
 
-## 🗄️ **Databases**
+### 🔹 **Backend Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nestjs&theme=dark" />
 </p>
 
-## ☁️ **Cloud & DevOps**
+### 🔹 **Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,heroku,nginx,githubactions,linux,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,redis&theme=dark" />
 </p>
 
-## 🧩 **Other Tools**
+### 🔹 **Cloud & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,graphql,astro,vite,prisma,remix,gitlab,regex,discord&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,githubactions,heroku,linux&theme=dark" />
+</p>
+
+### 🔹 **Other Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,gitlab,graphql,prisma,vite,astro,remix,regex,discord&theme=dark" />
 </p>
 
 ---
 
-# 🧩 **My Projects (Showcase)**
+# 🌟 **Flagship Projects (Premium Cards)**
 
-Here are some highlights of what I build:
+### 📌 **1. Boxpay Microloan Engine**
+A complete lending system with:
+- Cluster repayment model  
+- Agent field operations  
+- Automated workflows  
+- Cloud-native deployment  
 
-### 🔥 **Boxpay Microloan System**
-> A complete lending engine with cluster repayment, agent tracking, and automated workflows.
-
-**Tech:** Node.js, PostgreSQL, Docker  
-**Want me to add GitHub link? Tell me the repo name.**
-
----
-
-### 🚗 **AI Car Tracking + Automated Gate System**
-> Detect plate numbers → Validate → Auto-open gate → Log activity.
-
-**Tech:** Python, AI Model, Raspberry Pi, Cloud DB
+**Tech:** Node.js, PostgreSQL, Docker, Kubernetes
 
 ---
 
-### 📦 **Inventory Management System (NestJS)**
-> Track products, expiry dates, suppliers, and stock levels.
+### 📌 **2. AI Car Tracking + Automated Gate**
+- Real-time license plate detection  
+- Raspberry Pi integration  
+- Cloud database  
+- Auto-gate opening  
+
+**Tech:** Python, AI Vision Model, Pi, FastAPI  
+
+---
+
+### 📌 **3. Full Inventory Management System**
+- Product & supplier records  
+- Expiry tracking  
+- Multi-role user access  
+- API + Dashboard  
 
 **Tech:** NestJS, PostgreSQL, Vite  
 
 ---
 
-# ⭐ **Dynamic Stats & Activity**
+# 📊 **Ultimate Developer Metrics**
 
-## 📊 **GitHub Analytics**
+## 💠 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rufai36&show_icons=true&theme=tokyonight&border_radius=12" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rufai36&layout=compact&theme=tokyonight&border_radius=12" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rufai36&show_icons=true&theme=tokyonight&border_radius=12" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rufai36&layout=compact&theme=tokyonight&border_radius=12" />
 </p>
 
-## 🔥 **Streaks**
+## 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rufai36&theme=tokyonight&border_radius=12" />
 </p>
 
-## 🏆 **Trophies**
+## 🏆 Achievements (Trophies)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rufai36&column=4&margin-w=15&margin-h=15&theme=algolia" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rufai36&theme=algolia&column=4&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
-# 🧠 **What I'm Learning Now**
-- ⚙️ Advanced Kubernetes  
-- ☁️ AWS Cloud Architecture  
-- 🛡️ API security & rate limiting  
-- 🚀 High-performance backend strategies  
-
----
-
-# ⏳ **Coding Activity (Auto-Updating)**
+# ⏳ **Auto-Updating Coding Activity**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rufai36&theme=tokyonight&border_radius=12" />
 </p>
 
-> If you don’t have Wakatime yet, I can guide you to set it up — just say **“set up wakatime for me”**.
+_(If you want to connect Wakatime, I will help you set it up.)_
 
 ---
 
-# 🐍 **Contribution Snake**
+# 🐍 **Contribution Snake Animation**
 <p align="center">
   <img src="https://raw.githubusercontent.com/AchrafSoltani/AchrafSoltani/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-# 🤝 **Let’s Connect**
-
+# 🌐 **Let’s Connect**
 <p align="center">
   <a href="https://github.com/rufai36"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
@@ -123,5 +148,5 @@ Here are some highlights of what I build:
 ---
 
 <p align="center">
-  🌟 <b>“Your code is your legacy — make it meaningful.”</b> 🌟
+  🧠 <b>"Build with purpose. Deploy with confidence. Improve without stopping."</b>  
 </p>
