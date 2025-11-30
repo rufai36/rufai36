@@ -99,5 +99,5 @@ Hi! I'm **Rufai**, a passionate **Backend Engineer & DevOps enthusiast** who enj
 ---
 
 <p align="center">
-  🌟 <b>“Your code is your legacy — make it meaningful.”</b> 🌟
+  🧠 <b>"Build with purpose. Deploy with confidence. Improve without stopping."</b>  
 </p>
