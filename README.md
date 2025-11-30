@@ -7,7 +7,7 @@
 ### 🔧 Tools I Use Daily
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,aws,gcp,azure" />
   </a>
 </p>
 ### 🔭 What I'm Working On
