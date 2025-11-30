@@ -4,11 +4,17 @@
 
 🌍 Based in Nigeria | Open to remote work (Worldwide)
 
-### 🔧 Skills & Tech Stack
-- Languages: Python, JavaScript, TypeScript, Ruby, Bash
-- Frameworks: React, Next.js, Ruby on Rails, Express.js, 
-- DevOps: Docker, GitHub Actions, CI/CD, NGINX, AWS
-- Tools: Postman, DBeaver, VS Code, Linux, cPanel, jira
+### 🔧 Tools I Use Daily
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ### 🔭 What I'm Working On
 - Building Omni-Channel customer support software
