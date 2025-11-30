@@ -1,24 +1,127 @@
-### 👋 Hi, I'm Rufai Ahmad Atiku
-
-💻 I’m a Software Engineer and IT Officer with a passion for solving real-world problems using technology.
-
-🌍 Based in Nigeria | Open to remote work (Worldwide)
-
-### 🛠️ Tools I Use Daily
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,typescript,python,fastapi,vitest,firebase,mongodb,redis,postgresql,sqlite,astro,nginx,aws" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=graphql,heroku,git,kubernetes,docker,githubactions,linux,vite,bash,discord,azure,regex,prisma,remix,gitlab" />
+<!-- =====================  ANIMATED HEADER BANNER  ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4200&pause=1000&color=00C0FF&center=true&vCenter=true&width=900&lines=Welcome+to+Rufai's+Developer+World+🌍;Backend+Engineer+%7C+Cloud+%26+DevOps+Enthusiast;Building+Modern+Apps+%F0%9F%9A%80;Automating+Deployments+%F0%9F%9A%80;Learning+Every+Single+Day+🔥" />
 </p>
 
-### 🔭 What I'm Working On
-- Building Omni-Channel customer support software
-- Deploying scalable web apps on AWS EC2
-- Using AI for smart credit risk assessment in banking
+---
 
-### 📫 How to Reach Me
-- Email: ra.atiku36@gmail.com
-- LinkedIn: linkedin.com/in/rufai-ahmad-atiku-b75414218 https://linkedin.com/in/rufai-ahmad-atiku-b75414218
-- Twitter: @Rumfuss https://x.com/Rumfuss
+# 👨‍💻 **Who I Am**
+Hi! I'm **Rufai**, a passionate **Backend Engineer & DevOps enthusiast** who enjoys building high-performance systems, deploying cloud-native applications, and solving real-world problems through technology.
 
+💡 I focus on:
+- Building **scalable backend systems**  
+- Cloud deployments using **Docker**, **Kubernetes**, **AWS**  
+- API design & microservices  
+- DevOps automation (CI/CD, GitHub Actions)  
+- Databases & system architecture  
+
+---
+
+# ⚙️ **My Technology Arsenal**
+
+## 🚀 **Languages & Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,javascript,typescript,python,fastapi,vitest&theme=dark" />
+</p>
+
+## 🗄️ **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite,redis&theme=dark" />
+</p>
+
+## ☁️ **Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,heroku,nginx,githubactions,linux,bash&theme=dark" />
+</p>
+
+## 🧩 **Other Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,graphql,astro,vite,prisma,remix,gitlab,regex,discord&theme=dark" />
+</p>
+
+---
+
+# 🧩 **My Projects (Showcase)**
+
+Here are some highlights of what I build:
+
+### 🔥 **Boxpay Microloan System**
+> A complete lending engine with cluster repayment, agent tracking, and automated workflows.
+
+**Tech:** Node.js, PostgreSQL, Docker  
+**Want me to add GitHub link? Tell me the repo name.**
+
+---
+
+### 🚗 **AI Car Tracking + Automated Gate System**
+> Detect plate numbers → Validate → Auto-open gate → Log activity.
+
+**Tech:** Python, AI Model, Raspberry Pi, Cloud DB
+
+---
+
+### 📦 **Inventory Management System (NestJS)**
+> Track products, expiry dates, suppliers, and stock levels.
+
+**Tech:** NestJS, PostgreSQL, Vite  
+
+---
+
+# ⭐ **Dynamic Stats & Activity**
+
+## 📊 **GitHub Analytics**
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rufai36&show_icons=true&theme=tokyonight&border_radius=12" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rufai36&layout=compact&theme=tokyonight&border_radius=12" />
+</p>
+
+## 🔥 **Streaks**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rufai36&theme=tokyonight&border_radius=12" />
+</p>
+
+## 🏆 **Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rufai36&column=4&margin-w=15&margin-h=15&theme=algolia" />
+</p>
+
+---
+
+# 🧠 **What I'm Learning Now**
+- ⚙️ Advanced Kubernetes  
+- ☁️ AWS Cloud Architecture  
+- 🛡️ API security & rate limiting  
+- 🚀 High-performance backend strategies  
+
+---
+
+# ⏳ **Coding Activity (Auto-Updating)**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rufai36&theme=tokyonight&border_radius=12" />
+</p>
+
+> If you don’t have Wakatime yet, I can guide you to set it up — just say **“set up wakatime for me”**.
+
+---
+
+# 🐍 **Contribution Snake**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AchrafSoltani/AchrafSoltani/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🤝 **Let’s Connect**
+
+<p align="center">
+  <a href="https://github.com/rufai36"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+<p align="center">
+  🌟 <b>“Your code is your legacy — make it meaningful.”</b> 🌟
+</p>
